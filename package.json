@@ -28,6 +28,9 @@
 		"vite": "^7.1.10"
 	},
 	"dependencies": {
-		"@supabase/supabase-js": "^2.78.0"
+		"@supabase/supabase-js": "^2.78.0",
+		"dotenv": "^17.2.3",
+		"openai": "^6.7.0",
+		"rss-parser": "^3.13.0"
 	}
 }
